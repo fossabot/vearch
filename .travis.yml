@@ -4,9 +4,7 @@ services:
   - docker
 
 before_install:
-  - ls
-  - ll
-  - cd clould
+  - cd cloud
   - ./run_docker.sh
   - sleep 30
 
