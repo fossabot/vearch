@@ -2,7 +2,7 @@
   <img src="docs/img/vearch_logo.png">
 </div>
 
-**Master** [![Master Build Status](https://travis-ci.org/ansjsun/vearch.svg?branch=master)](https://travis-ci.org/ansjsun/vearch)
+[![Build Status](https://travis-ci.org/ansjsun/vearch.svg?branch=master)](https://travis-ci.org/ansjsun/vearch)
 
 ## Overview
 
