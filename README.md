@@ -12,6 +12,7 @@ Vearch is a scalable distributed system for efficient similarity search of deep 
 ## Architecture
 
 ![arc](docs/img/VearchArch.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fansjsun%2Fvearch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fansjsun%2Fvearch?ref=badge_shield)
 
 * Data Model
 
@@ -58,3 +59,6 @@ Vearch is a scalable distributed system for efficient similarity search of deep 
 
 ## License
 Licensed under the Apache License, Version 2.0. For detail see LICENSE and NOTICE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fansjsun%2Fvearch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fansjsun%2Fvearch?ref=badge_large)
